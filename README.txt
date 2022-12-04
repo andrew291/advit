@@ -1,17 +1,11 @@
-Meyawo Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+# GitHub Actions deploy Flask to AWS Elastic Beanstalk
 
-Product Page: https://wwww.devcrud.com/
 
-Credits:
 
-    Demo Images:
-        Unsplash:       	(https://www.unsplash.com)
 
-    Icons:
-		Themify Icons: 		(https://themify.me/themify-icons)
+Status of Last Deployment:<br>
+<img src="https://github.com/andrew291/advit/workflows/CI-CD_Pipeline-to-AWS-ElasticBeanstalk/badge.svg?branch=master">
+<br>
 
-	Other:
-		jQuery: 			(https://www.jquery.com)
-		Bootstrap: 			(https://www.getbootstrap.com)
-		Bootstrap Affix: 	(http://getbootstrap.com/javascript/#affix)  
 
+Copyleft by Andrew291
